@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(66, 7, 7);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+
+}
+.left{
+    width: 350px;
+    background-color: rgb(22, 79, 87);
+    color: white;
+    padding: 20px;
+}
+.left img{
+    width: 200px;
+    border-radius: 50%;
+}
+.right{
+    width: 900px;
+    background-color: white;
+    padding: 10px;
+} 
